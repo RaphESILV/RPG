@@ -10,6 +10,8 @@ def create_directory_structure():
         'tests/system',
         'tests/data'
     ]
+
+    #dfzqfdqfdfqfdf
     
     for directory in directories:
         os.makedirs(directory, exist_ok=True)
