@@ -11,7 +11,7 @@ def create_directory_structure():
         'tests/data'
     ]
 
-    #dfzqfdqfdfqfdf
+    #test 
     
     for directory in directories:
         os.makedirs(directory, exist_ok=True)
